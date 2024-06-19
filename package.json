@@ -1,6 +1,6 @@
 {
-  "name": "@abz-03/cli-based-number-guessing-game",
-  "version": "1.0.0",
+  "name": "am03-cli-based-number-guessing-game",
+  "version": "1.0.3",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
